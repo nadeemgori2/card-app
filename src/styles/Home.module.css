@@ -166,10 +166,6 @@
   font-size: var(--font-size-lg);
   font-weight: bold;
   white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  max-width: 20ch;
-  transition: max-width 0.3s ease;
 }
 
 .cardDescription {
@@ -188,7 +184,6 @@
   max-width: 100%;
   -webkit-line-clamp: unset;
   white-space: normal;
-  overflow: visible;
 }
 
 .loading {

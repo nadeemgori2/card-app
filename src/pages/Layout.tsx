@@ -20,7 +20,7 @@ const Layout: React.FC = () => {
       <AppBar position="fixed" className={styles.appBar}>
         <Toolbar className={styles.toolbar}>
           <Typography variant="h6" className={styles.title}>
-            Bamboo Cards
+            Cards
           </Typography>
           <TextField
             variant="outlined"

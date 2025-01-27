@@ -1,4 +1,4 @@
-# Bamboo Cards App
+# Cards App
 
 This is a simple React application to display a list of cards fetched from a mock API (JSONPlaceholder) and filtered based on a search query. The app utilizes **React**, **Material UI**, and **Vite** as the build tool. It also features smooth hover animations.
 
@@ -23,8 +23,10 @@ To run this project locally, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd bamboo-cards-app
+git clone https://github.com/nadeemgori2/card-app.git
+```
+```bash
+cd card-app
 ```
 
 ### 2. Install Dependencies
@@ -38,7 +40,6 @@ npm run dev
 ```
 
 ### Note: Node.js and npm Versions
-```bash
 Node.js: v18.20.6
+
 npm: 8.19.4
-```
